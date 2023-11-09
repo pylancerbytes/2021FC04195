@@ -275,7 +275,7 @@ pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 py @ file:///opt/conda/conda-bld/py_1644396412707/work
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
-pyarrow==11.0.0
+pyarrow==14.0.1
 pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
 pyasn1-modules==0.2.8
 pycodestyle @ file:///C:/b/abs_d77nxvklcq/croot/pycodestyle_1674267231034/work
